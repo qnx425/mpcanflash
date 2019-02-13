@@ -26,7 +26,7 @@ For comprehensive information about the device operation read carefully 'Device 
 ##### Examples
 
 First you can try to download some piece of firmware for test purposes, without signing. This allows MCU firmware to stay in boot mode and return some information.  
-For example, download [test1.hex](test/test1.hex) or [test2.hex](test/test2.hex) as shown below.
+For example, download [test1.hex](blob/master/test/test1.hex) or [test2.hex](test/test2.hex) as shown below.
 
 ![](images/down-test1.png)
 ![](images/down-test2.png)
