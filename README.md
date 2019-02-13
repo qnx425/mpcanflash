@@ -41,6 +41,6 @@ Later you can download real working [firmware](test/app.hex), sign it ...
 
 ![](images/down-app.png)  
 
-... and watch [that it](test/mpcanflash.txl) works.  
+... and watch that [it](test/mpcanflash.txl) works.  
 
 ![](images/app.png)
