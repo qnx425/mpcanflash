@@ -1,0 +1,13 @@
+1030 07 bf 08 bf 09 bf 0a bf 0b bf 0c bf 0d bf 0e bf
+     0f bf 10 bf 11 bf 12 bf 13 bf 14 bf 15 bf 16 bf
+     ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+     
+12b0 47 c0 48 c0 49 c0 4a c0 4b c0 4c c0 4d c0 4e c0
+     4f c0 50 c0 51 c0 52 c0 53 c0 54 c0 55 c0 56 c0
+     
+1320 7f c0 80 c0 81 c0 82 c0 83 c0 84 c0 85 c0 86 c0
+     87 c0 88 c0 89 c0 8a c0 8b c0 8c c0 8d c0 8e c0
+     8f c0 90 c0 91 c0 92 c0 93 c0 94 c0 95 c0 96 c0
+     97 c0 98 c0 99 c0 9a c0 9b c0 9c c0 9d c0 9e c0
+     9f c0 a0 c0 a1 c0 a2 c0 a3 c0 a4 c0 a5 c0 a6 c0
+     ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
